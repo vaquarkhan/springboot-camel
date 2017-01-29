@@ -5,7 +5,6 @@ http://camel.apache.org/spring.html
 
 https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-spring-example/
 
-Also Refer
 http://camel.apache.org/enterprise-integration-patterns.html
 
 http://camel.apache.org/tutorials.html
